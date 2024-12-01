@@ -1,4 +1,5 @@
 # Reddit-Clients-List
-A awesome list for Reddit lovers who are searching for handy and perfect clients for Reddit for Android, iOS and Windows. [CONSTRUCTING!]
+A awesome list for Reddit lovers who are searching for handy and perfect clients for Reddit for Android, iOS and Windows.
 
 Relay for Reddit
+Infinity for reddit
